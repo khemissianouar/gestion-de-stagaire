@@ -1,0 +1,11 @@
+cahier de charge : Postuler pour un ou plusieurs stages.
+	Consulter, editer et accéder facilement aux informations relatives aux demandes et stages.
+	Gerer les etudiants et les enseignants.
+         Envoyer des candidatures spontanées
+	Gerer les sujets.
+
+
+object une application web pour la gestion des stages
+mot cle : Gerer les sujets
+         Gerer les etudiants et les enseignants
+titre Gestion des Stages et PFE
